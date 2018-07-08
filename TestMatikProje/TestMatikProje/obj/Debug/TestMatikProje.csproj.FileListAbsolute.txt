@@ -1,0 +1,178 @@
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe.config
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.pdb
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csprojResolveAssemblyReference.cache
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.AnaForm.resources
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Properties.Resources.resources
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Sorular.resources
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csproj.GenerateResource.Cache
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.exe
+c:\users\durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.pdb
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Dersler.resources
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Hoca.resources
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Fakulteler.resources
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavHazirla.resources
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavYazdir.resources
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\stdole.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\FlashControlV71.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Durandal\documents\visual studio 2015\Projects\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Raporlama.resources
+C:\Users\Durandal\Documents\Visual Studio 2015\zzzz\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe.config
+C:\Users\Durandal\Documents\Visual Studio 2015\zzzz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.exe
+C:\Users\Durandal\Documents\Visual Studio 2015\zzzz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.pdb
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe.config
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.exe
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.pdb
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.pdb
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\stdole.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csprojResolveAssemblyReference.cache
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.AnaForm.resources
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Dersler.resources
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Fakulteler.resources
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Hoca.resources
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Properties.Resources.resources
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Raporlama.resources
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavHazirla.resources
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavYazdir.resources
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Sorular.resources
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csproj.GenerateResource.Cache
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\İlker\Desktop\TestMatikProje\TestMatikProje\bin\Debug\FlashControlV71.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe.config
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.exe
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.pdb
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.pdb
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\FlashControlV71.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\bin\Debug\stdole.dll
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csprojResolveAssemblyReference.cache
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.AnaForm.resources
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Dersler.resources
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Fakulteler.resources
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Hoca.resources
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Properties.Resources.resources
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Raporlama.resources
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavHazirla.resources
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavYazdir.resources
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Sorular.resources
+C:\Users\İlker\Documents\Visual Studio 2015\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csproj.GenerateResource.Cache
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe.config
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.exe
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.pdb
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.pdb
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\FlashControlV71.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\bin\Debug\stdole.dll
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csprojResolveAssemblyReference.cache
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.AnaForm.resources
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Dersler.resources
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Fakulteler.resources
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Hoca.resources
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Properties.Resources.resources
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Raporlama.resources
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavHazirla.resources
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavYazdir.resources
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Sorular.resources
+C:\Users\Durandal\Desktop\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csproj.GenerateResource.Cache
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe.config
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.exe
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.pdb
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.pdb
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\FlashControlV71.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\bin\Debug\stdole.dll
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csprojResolveAssemblyReference.cache
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.AnaForm.resources
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Dersler.resources
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Fakulteler.resources
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Hoca.resources
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Properties.Resources.resources
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Raporlama.resources
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavHazirla.resources
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavYazdir.resources
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Sorular.resources
+C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csproj.GenerateResource.Cache
