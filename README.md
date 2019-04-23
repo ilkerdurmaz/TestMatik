@@ -6,4 +6,4 @@ Visual Studio ortamında C# dili ile yazılmıştır, raporlama için Crystal Re
 
 Çalışması için testmatik.mdf dosyasını MS SQL Server'a attach etmeniz gerekiyor.
 
-https://drive.google.com/file/d/1jE-_Hhk7o-Q4MaB9NC34v91wUZP1EvNP
+<img src="https://docs.google.com/uc?id=1jE-_Hhk7o-Q4MaB9NC34v91wUZP1EvNP"  height="42" width="42">
