@@ -176,3 +176,43 @@ C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\
 C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavYazdir.resources
 C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Sorular.resources
 C:\Users\Durandal\Desktop\151103017 İlker Durmaz\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csproj.GenerateResource.Cache
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe.config
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.exe
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\TestMatikProje.pdb
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\stdole.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csprojAssemblyReference.cache
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.AnaForm.resources
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Dersler.resources
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Fakulteler.resources
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Hoca.resources
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Properties.Resources.resources
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Raporlama.resources
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavHazirla.resources
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.SinavYazdir.resources
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.Sorular.resources
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csproj.GenerateResource.cache
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csproj.CoreCompileInputs.cache
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.csproj.CopyComplete
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.exe
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.pdb
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\FlashControlV71.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\CRVsPackageLib.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\EnvDTE.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\VSLangProj.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\EnvDTE80.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Durandal\Documents\GitHub\TestMatik\TestMatikProje\TestMatikProje\obj\Debug\TestMatikProje.exe.config
