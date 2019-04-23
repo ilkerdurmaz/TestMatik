@@ -12,4 +12,7 @@
 
 <img src="https://docs.google.com/uc?id=15RuErPI2_iwiQBh85jJW1EcK5hrFkyxs"  height="288" width="315">
 
-<img src="https://docs.google.com/uc?id=10Ssmt4_sdgxcCo_UzwkvT0gIfM_BV_w9"  height="474" width="690">
+<img src="https://docs.google.com/uc?id=1uORrblKhSn6nslVfNwYNb1aO_f2OYRND"  height="503" width="381">
+
+<img src="https://docs.google.com/uc?id=12d4Asm2C-LNz9CFxKJY8zlROZicRklMf"  height="874" width="897">
+
