@@ -1,6 +1,5 @@
 # TestMatik
 
 
-Visual Studio ortamında Crystal Report eklentisi kullanarak hazırlanmıştır.
+2. SÄ±nÄ±fta "VeritabanÄ± Destekli GÃ¶rsel Programlama" dersi kapsamÄ±nda yapmÄ±ÅŸ olduÄŸum test sÄ±navÄ± hazÄ±rlama projesi.
 
-testmatik.mdf isimli database dosyasını SQL server'a attach etmeniz gerekiyor.
